@@ -92,6 +92,8 @@ Python · JavaScript · n8n · Zapier · Make · Telegram API · WhatsApp API ·
 
 💡 Mission: To engineer systems that work harder than any manual process ever could.
 
+📌 Note: I specialize in Automation, Web Development & Bot Development — and I take on any project that falls within or connects to these disciplines. If you have something in mind, let's talk.
+ 
 Reply with a number:
 1️⃣ Services  2️⃣ Pricing  3️⃣ Portfolio  4️⃣ About  5️⃣ Contact"""
 
